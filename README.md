@@ -1,1 +1,5 @@
 # Friday-13th-stock-return
+
+Our project for Introduction to Probability and Statistics is based on a superstitious client who does not want to invest on Black Fridays because he believes that the returns he will get will be lower than investing any other Friday. We are focusing this investigation in the healthcare industry, particularly in major pharmaceutical companies. This project aims to investigate if there exists a difference in regards to the returns if the investment is done on a Black Friday. To achieve this, we selected ten stocks in the Healthcare system whose companies were all major pharmaceuticals. We tested if the log returns of Normal Fridays and Black Fridays were equal using different approximation depending on the equality or not equality of the variance of our samples. Finally, we tested if the returns of Black Fridays were worse than the ones of Normal Fridays using a one-sided test.
+
+This project has been realized by Nomin-Erdene Oyun, Nicole Piffaut and Barbara Stickel.
